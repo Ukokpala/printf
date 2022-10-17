@@ -186,6 +186,3 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
-git add .
-git commit -m 'functions.c'
-git push
